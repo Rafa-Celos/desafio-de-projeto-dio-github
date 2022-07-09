@@ -4,4 +4,4 @@
 Introdução ao Gti/Github
 
 ### Links úteis:
-[Getting started Markdown] (https://www.markdownguide.org/getting-started/) 
+[Getting started Markdown](https://www.markdownguide.org/getting-started/) 
